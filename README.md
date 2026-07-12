@@ -22,7 +22,7 @@ An automated beverage dispensing system controlled entirely through speech, enab
 
 1. Clone the repository
    \`\`\`bash
-   git clone https://github.com/YOUR-USERNAME/voice-controlled-beverage-dispenser.git
+   git clone https://github.com/Shruti16-code/voice-controlled-beverage-dispenser.git
    cd voice-controlled-beverage-dispenser
    \`\`\`
 
